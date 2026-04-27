@@ -3,10 +3,10 @@ remote_theme: just-the-docs/just-the-docs
 
 incremental: true
 
-title: "CS16 F25"
-baseurl: "/cs16-f25"
+title: "CS16 S26"
+baseurl: "/cs16-s26"
 
-github_org: ucsb-cs16-f25
+github_org: ucsb-cs16-s26
 
 mermaid:
   # Version of mermaid library
@@ -25,7 +25,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/ucsb-cs16-f25/cs16-f25" # the github URL for your repo
+gh_edit_repository: "https://github.com/ucsb-cs16-s26/cs16-s26" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
 
@@ -56,6 +56,3 @@ defaults:
     values:
       layout: staffer
       subpath: '/assets/images/'
- 
-
-
